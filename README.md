@@ -15,7 +15,7 @@ This Chrome extension allows users to generate LinkedIn posts based on selected 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/linkedin-post-generator.git
+   git clone https://github.com/ReignDeve/linkedin-post-generator.git
    ```
 2. **Load the extension in Chrome:**
    - Open `chrome://extensions/` in your Chrome browser.
@@ -71,5 +71,5 @@ For any questions or issues, please open an issue on this repository or contact 
 ---
 
 **Note:** This project is for educational purposes and is not affiliated with LinkedIn or OpenAI. Use it responsibly and ensure compliance with all relevant terms of service.
-```
+
 
