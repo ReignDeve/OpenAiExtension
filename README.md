@@ -1,4 +1,4 @@
-Natürlich! Hier ist das README.md in Markdown-Format:
+
 
 
 # LinkedIn Post Generator Chrome Extension
